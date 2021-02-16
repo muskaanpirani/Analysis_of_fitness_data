@@ -1,1 +1,2 @@
-# Analysis_of_fitness_data
+# Analysis of fitness data
+Project completed during internship at MedTourEasy
